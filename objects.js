@@ -1,0 +1,1 @@
+var playlist = { LP: 'Some where I belong'}
