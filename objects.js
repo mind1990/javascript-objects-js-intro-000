@@ -8,7 +8,7 @@ function updatePlaylist(playlist, artistName, songTitle) {
 
 function removeFromPlaylist(playlist, artistName) {
   delete playlist.artistName
-  delete Object.Slowdrive
+  delete playlist.Slowdrive
   return playlist
 
 }
